@@ -1,0 +1,8 @@
+Este es un proyecto de prueba de nuevos comandos de git.
+
+se trata de una pagina hecha en bootstrap
+
+Colaboradores
+
+1.- Luis Fernando Caute
+2.-...
