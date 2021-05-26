@@ -6,5 +6,5 @@ Editando el index
 
 Colaboradores
 
-1.- Luis Fernando Caute
-2.-...
+1.- Luis Fernando Caute -> header y footer
+2.-... -> contenido
